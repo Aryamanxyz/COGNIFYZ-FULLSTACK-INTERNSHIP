@@ -297,5 +297,4 @@ or use Live Server extension in VS Code.
 Aspiring Full Stack Developer  
 Focused on building scalable and structured web applications.  
 
-GitHub: https://github.com/dhruv-bamal  
-LinkedIn: 
+GitHub: https://github.com/
