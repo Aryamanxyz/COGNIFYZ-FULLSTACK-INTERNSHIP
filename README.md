@@ -298,4 +298,4 @@ Aspiring Full Stack Developer
 Focused on building scalable and structured web applications.  
 
 GitHub: https://github.com/dhruv-bamal  
-LinkedIn: https://www.linkedin.com/in/dhruv-bamal-9314283a8/
+LinkedIn: 
