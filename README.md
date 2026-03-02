@@ -293,7 +293,7 @@ or use Live Server extension in VS Code.
 
 # 👨‍💻 Author
 
-**Dhruv Bamal**  
+**Aryaman Chaudhary**  
 Aspiring Full Stack Developer  
 Focused on building scalable and structured web applications.  
 
